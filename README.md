@@ -8,25 +8,25 @@ si se desea verlos por favor contactarme y le indicaré el metodo de desencripta
 Los algoritmos se implementaron en un Arduino UNO
 
 Algoritmos implementados
-1 - Left to Right
-2 - Left to Right usando Bloques Atomicos [1]
-3 - Left to Right usando Formula Unificada [2]
-4 - Always Double and Add [3]
-5 - Modified Montgomery Ladder [4]
-6 - Double-Add [5]
+1 - Left to Right \
+2 - Left to Right usando Bloques Atomicos [1] \
+3 - Left to Right usando Formula Unificada [2] \
+4 - Always Double and Add [3] \
+5 - Modified Montgomery Ladder [4] \
+6 - Double-Add [5] \
 7 - Add-Only [5]
-8 - Randomized Montgomery Ladder [6]
-9 - Signed Digit Method: Left to Right [7]
-10 - Clavier-Joye's Countermeasure [8]
-11 - Coron's Second Countermeasure [3]
-12 - Coron's Third Countermeasure [3]
-13 - Ciet-Joye Method 2P* [10]
-14 - Montgomery Powering Ladder method with randomized address [11]
-15 - BRIP Countermeasure [12]
-16 - Kim et al. Countermeasure [13]
+8 - Randomized Montgomery Ladder [6] \
+9 - Signed Digit Method: Left to Right [7] \
+10 - Clavier-Joye's Countermeasure [8] \
+11 - Coron's Second Countermeasure [3] \
+12 - Coron's Third Countermeasure [3] \
+13 - Ciet-Joye Method 2P* [10] \
+14 - Montgomery Powering Ladder method with randomized address [11] \
+15 - BRIP Countermeasure [12] \
+16 - Kim et al. Countermeasure [13] \
 
 
-Bibliografia
+Bibliografia \
 1 - Abarzúa, R., & Thériault, N. (2012). Complete Atomic Blocks for Elliptic Curves in Jacobian Coordinates
 over Prime Fields. LATINCRYPT 2012 (págs. 37-55). Berlin, Heidelberg: Springer.
 
