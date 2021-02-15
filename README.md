@@ -7,7 +7,7 @@ si se desea verlos por favor contactarme y le indicaré el metodo de desencripta
 
 Los algoritmos se implementaron en un Arduino UNO
 
-Algoritmos implementados
+Algoritmos implementados \
 1 - Left to Right \
 2 - Left to Right usando Bloques Atomicos [1] \
 3 - Left to Right usando Formula Unificada [2] \
