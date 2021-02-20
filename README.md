@@ -3,7 +3,7 @@ Este repositorio contiene mi trabajo de Tesis "Consumo energético de contramedi
 Donde se modificó y utilizó la libreria Nano-Ecc (https://github.com/iSECPartners/nano-ecc). 
 
 Los archivos principales estan encriptados, 
-si se desea verlos por favor contactarme y le indicaré el metodo de desencriptación.
+si desea verlos por favor contactarme y le indicaré el metodo de desencriptación.
 
 Los algoritmos se implementaron en un Arduino UNO
 
