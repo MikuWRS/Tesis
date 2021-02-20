@@ -23,7 +23,7 @@ Algoritmos implementados \
 13 - Ciet-Joye Method 2P* [10] \
 14 - Montgomery Powering Ladder method with randomized address [11] \
 15 - BRIP Countermeasure [12] \
-16 - Kim et al. Countermeasure [13] \
+16 - Kim et al. Countermeasure [13] 
 
 
 Bibliografia \
